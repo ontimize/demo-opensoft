@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+        
+  
+  
+  <modelVersion>4.0.0</modelVersion>
+        
+  
+  
+  <groupId>com.example</groupId>
+        
+  
+  
+  <artifactId>opensoft</artifactId>
+        
+  
+  
+  <version>1.0.0-SNAPSHOT</version>
+        
+  
+  
+  <packaging>pom</packaging>
+        
+  
+  
+  <name>Ontimize Classic Project</name>
+        
+  
+  
+  <description>Ontimize Classic Project</description>
+        
+  
+  
+  <properties>
+                
+    
+    
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+                
+    
+    
+    <ontimize.version>6.0.17</ontimize.version>
+                
+    
+    
+    <plaf.version>1.0.12</plaf.version>
+                
+    
+    
+    <plaf-style.version>1.3.5</plaf-style.version>
+                
+    
+    
+    <hsqldb.version>1.8.0.10</hsqldb.version>
+                
+    
+    
+    <logback.version>1.0.13</logback.version>
+              
+  
+  
+  </properties>
+      
+  
+  
+  <modules>
+              
+    
+    
+    <module>opensoft-server</module>
+              
+    
+    
+    <module>opensoft-client</module>
+          
+    
+    <module>opensoft-common</module>
+      
+  </modules>
+    
+
+</project>
