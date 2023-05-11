@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<FormExt
+        columns="ID_RANDOM;ID_RANDOM_COL1;ID_RANDOM_COL2;ID_RANDOM_COL3;ID_RANDOM_COL4;ID_RANDOM_COL5;ID_RANDOM_COL6;ID_RANDOM_COL7;ID_RANDOM_COL8;ID_RANDOM_COL9;ID_RANDOM_COL10;ID_RANDOM_COL11;ID_RANDOM_COL12;ID_RANDOM_COL13;ID_RANDOM_COL14;ID_RANDOM_COL15;ID_RANDOM_COL16;ID_RANDOM_COL17;ID_RANDOM_COL18;ID_RANDOM_COL19;ID_RANDOM_COL20"
+        entity="ERandomData" keys="ID_RANDOM" title="randomData">
+    <FormHeader standardbuttons="yes"/>
+    <IntegerDataField align="left" attr="ID_RANDOM" dim="text" labelsize="16" text="ID_RANDOM"/>
+    <IntegerDataField align="left" attr="ID_RANDOM_COL1" dim="text" labelsize="16" text="ID_RANDOM_COL1"/>
+    <IntegerDataField align="left" attr="ID_RANDOM_COL2" dim="text" labelsize="16" text="ID_RANDOM_COL2"/>
+    <IntegerDataField align="left" attr="ID_RANDOM_COL3" dim="text" labelsize="16" text="ID_RANDOM_COL3"/>
+    <IntegerDataField align="left" attr="ID_RANDOM_COL4" dim="text" labelsize="16" text="ID_RANDOM_COL4"/>
+    <IntegerDataField align="left" attr="ID_RANDOM_COL5" dim="text" labelsize="16" text="ID_RANDOM_COL5"/>
+</FormExt>
+
+        <!-- cols="ID_RANDOM;ID_RANDOM_COL1;ID_RANDOM_COL2;ID_RANDOM_COL3;ID_RANDOM_COL4;ID_RANDOM_COL5;ID_RANDOM_COL6;ID_RANDOM_COL7;ID_RANDOM_COL8;ID_RANDOM_COL9;ID_RANDOM_COL10;ID_RANDOM_COL11;ID_RANDOM_COL12;ID_RANDOM_COL13;ID_RANDOM_COL14;ID_RANDOM_COL15;ID_RANDOM_COL16;ID_RANDOM_COL17;ID_RANDOM_COL18;ID_RANDOM_COL19;ID_RANDOM_COL20" -->

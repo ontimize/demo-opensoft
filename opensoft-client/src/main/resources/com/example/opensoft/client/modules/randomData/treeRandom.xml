@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<Node id="ERandomData" entity="ERandomData" text="ERandomData" attr="ID_RANDOM"
+	sortattr="ID_RANDOM" form="formRandomDataRegister.xml" keys="ID_RANDOM">
+</Node>

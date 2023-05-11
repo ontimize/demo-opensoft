@@ -37,6 +37,7 @@
   </Menu>
   <Menu attr="Menumanagermodules">
     <MenuItem attr="managersqlqueries"/>
+    <MenuItem attr="managerRandomDataRegister"/>
   </Menu>
   <Menu attr="Menumanagerusers">
     <MenuItem attr="Managerusers"/>
